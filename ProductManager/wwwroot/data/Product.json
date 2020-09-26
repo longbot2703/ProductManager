@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "prod-01",
+    "Img": "https://i.pinimg.com/564x/8d/fe/64/8dfe647b4be549045e0b252d51b1b75e.jpg",
+    "Name": "Kreator - Extreme Aggression",
+    "Price": "20.00$"
+  },
+  {
+    "Id": "prod-02",
+    "Img": "https://i.pinimg.com/564x/5c/2e/47/5c2e473e6192cc631a4b250039386c9b.jpg",
+    "Name": "Tankard - The Morning After",
+    "Price": "22.00$"
+  },
+  {
+    "Id": "prod-03",
+    "Img": "https://i.pinimg.com/564x/9e/ed/92/9eed928e4c39e9eace5d1a5dca1c6e08.jpg",
+    "Name": "Sodom - Agent Orange",
+    "Price": "25.00$"
+  },
+  {
+    "Id": "prod-04",
+    "Img": "https://i.pinimg.com/564x/b9/1c/d8/b91cd8d98cfd89cb4556fd5cb8cdaec4.jpg",
+    "Name": "Metallica - Master Of Puppets",
+    "Price": "5.00$"
+  },
+  {
+    "Id": "prod-05",
+    "Img": "https://images-na.ssl-images-amazon.com/images/I/812A9YJT1KL._SY355_.jpg",
+    "Name": "Megadeth - Youthanasia",
+    "Price": "10.00$"
+  },
+  {
+    "Id": "prod-06",
+    "Img": "https://i.pinimg.com/564x/61/46/21/614621e3c74ea2fb265aec33aed58e3e.jpg",
+    "Name": "Testament - Practice What You Preach",
+    "Price": "15.00$"
+  }
+]
